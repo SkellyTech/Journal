@@ -30,4 +30,14 @@ I feel like I can learn how to troubleshoot a lot betetr than before, and just e
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 Sadly, this isn't my fond specific part of coding I would like to do, but the troubleshooting aspects helped me along the way I will use this to my advantage when working on coding and different types of coding.
 
-For the module 6-1 I have created such things as like a conatct task and appointment coding within the file
+
+Module Eight Software Test Automation
+How can I ensure that my code, program, or software is functional and secure? 
+Because I etsted it out many times before and those tests came out positive. I worked throughout the tests and fixed upon things within each java file in the zipfile I sent.
+
+
+How do I interpret user needs and incorporate them into a program?
+Understand the requirements within the code and asking questions with code related and whatnot. Prioiritizing features within the eclipse program, and having prtotypes before the main files. 
+
+How do I approach designing software?
+I apporach it with problem solving techinques and learning what the code is and how does it function.
