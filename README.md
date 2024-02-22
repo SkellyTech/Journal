@@ -29,3 +29,5 @@ I feel like I can learn how to troubleshoot a lot betetr than before, and just e
 
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 Sadly, this isn't my fond specific part of coding I would like to do, but the troubleshooting aspects helped me along the way I will use this to my advantage when working on coding and different types of coding.
+
+For the module 6-1 I have created such things as like a conatct task and appointment coding within the file
