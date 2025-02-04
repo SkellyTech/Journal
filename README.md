@@ -1,4 +1,4 @@
-# Journal
+# Journal/Showcase
 Computer Graphic Visualization
 Kevin Dos Santos 
 My Journal Respository
